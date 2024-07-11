@@ -8,9 +8,9 @@
 <p>
   Hi 👋, I'm Marcelo Duarte!
 
-  - 🌱 I’m currently studying software development at BYU-I <img align="center" alt="html5" src="https://brightspotcdn.byui.edu/dims4/default/5e397a4/2147483647/strip/true/crop/260x260+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fbyu-idaho-brightspot-production-us-east-2.s3.us-east-2.amazonaws.com%2Fc9%2F0e%2F34458a174f37bf164a35e66a0cb5%2Fevenmorechubby.jpg" />
+  - 🌱 I’m currently studying software development at BYU-I <img align="center" alt="byu" src="https://brightspotcdn.byui.edu/dims4/default/5e397a4/2147483647/strip/true/crop/260x260+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fbyu-idaho-brightspot-production-us-east-2.s3.us-east-2.amazonaws.com%2Fc9%2F0e%2F34458a174f37bf164a35e66a0cb5%2Fevenmorechubby.jpg"/>
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🔭 I am open to work in RPA projects.
 </p>
 
 <!-- Dropdown -->
