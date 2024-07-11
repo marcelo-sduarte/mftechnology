@@ -61,4 +61,10 @@
     <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </div>
 
+  <!-- Skills: Database -->
+  <div style="flex-basis: 48%;">
+    <h3>Database</h3>
+    <img align="center" alt="Numpy" height="30" width="40" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">    
+  </div>
+
 
